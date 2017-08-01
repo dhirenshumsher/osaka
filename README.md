@@ -1,0 +1,2 @@
+# osaka
+Test Go map
